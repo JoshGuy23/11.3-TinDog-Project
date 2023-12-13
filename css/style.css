@@ -34,10 +34,14 @@
 }
 
 #title{
-    padding-top: 5em;
     padding-bottom: 0em;
 }
 
 #features{
     margin-top: 5em;
+}
+
+#footer{
+    padding-left: 10em;
+    padding-bottom: 4em;
 }
